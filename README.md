@@ -4,3 +4,5 @@
 always seeking opportunities to learn and improve skills.</br>
 Open for Collaboration on any kind of Developement</br>
 </p>
+<hr>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" style="max-width: 100%;" width="36" height="36">
