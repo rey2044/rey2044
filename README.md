@@ -11,6 +11,6 @@ Open for Collaboration on any kind of Developement</br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" style="max-width: 100%;" width="36" height="36">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" style="max-width: 100%;" width="36" height="36">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" style="max-width: 100%;" width="36" height="36">
-  <img src="https://th.bing.com/th/id/OIP.6TVqvzvetBgpFlUIUtx0QAHaFy?pid=ImgDet&rs=1" alt="Bootstrap" style="max-width: 100%;" width="36" height="36">
+  <img src="https://img1.pnghut.com/11/19/23/Qwx0p7hsBv/oracle-database-purple-microsoft-sql-server-c-query-language.jpg" alt="Bootstrap" style="max-width: 100%;" width="36" height="36">
  </p>
 </div>
